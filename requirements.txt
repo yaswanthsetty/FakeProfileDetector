@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+gender-guesser
+numpy
+joblib
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+webdriver-manager
+selenium
